@@ -1,0 +1,7 @@
+C:\Users\maxwe\Desktop\My Documents\C# Programs\EnigmaDHEnctyptionApp\EnigmaDHEncryptionApp\RotorMaker\RotorMaker\bin\Debug\RotorMaker.exe.config
+C:\Users\maxwe\Desktop\My Documents\C# Programs\EnigmaDHEnctyptionApp\EnigmaDHEncryptionApp\RotorMaker\RotorMaker\bin\Debug\RotorMaker.exe
+C:\Users\maxwe\Desktop\My Documents\C# Programs\EnigmaDHEnctyptionApp\EnigmaDHEncryptionApp\RotorMaker\RotorMaker\bin\Debug\RotorMaker.pdb
+C:\Users\maxwe\Desktop\My Documents\C# Programs\EnigmaDHEnctyptionApp\EnigmaDHEncryptionApp\RotorMaker\RotorMaker\obj\Debug\RotorMaker.csprojAssemblyReference.cache
+C:\Users\maxwe\Desktop\My Documents\C# Programs\EnigmaDHEnctyptionApp\EnigmaDHEncryptionApp\RotorMaker\RotorMaker\obj\Debug\RotorMaker.csproj.CoreCompileInputs.cache
+C:\Users\maxwe\Desktop\My Documents\C# Programs\EnigmaDHEnctyptionApp\EnigmaDHEncryptionApp\RotorMaker\RotorMaker\obj\Debug\RotorMaker.exe
+C:\Users\maxwe\Desktop\My Documents\C# Programs\EnigmaDHEnctyptionApp\EnigmaDHEncryptionApp\RotorMaker\RotorMaker\obj\Debug\RotorMaker.pdb

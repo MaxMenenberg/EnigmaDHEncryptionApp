@@ -1,0 +1,7 @@
+C:\Users\maxwe\Desktop\My Documents\C# Programs\EnigmaDHEnctyptionApp\EnigmaDHEncryptionApp\EnigmaClassTester\EnigmaClassTester\bin\Debug\EnigmaClassTester.exe.config
+C:\Users\maxwe\Desktop\My Documents\C# Programs\EnigmaDHEnctyptionApp\EnigmaDHEncryptionApp\EnigmaClassTester\EnigmaClassTester\bin\Debug\EnigmaClassTester.exe
+C:\Users\maxwe\Desktop\My Documents\C# Programs\EnigmaDHEnctyptionApp\EnigmaDHEncryptionApp\EnigmaClassTester\EnigmaClassTester\bin\Debug\EnigmaClassTester.pdb
+C:\Users\maxwe\Desktop\My Documents\C# Programs\EnigmaDHEnctyptionApp\EnigmaDHEncryptionApp\EnigmaClassTester\EnigmaClassTester\obj\Debug\EnigmaClassTester.csprojAssemblyReference.cache
+C:\Users\maxwe\Desktop\My Documents\C# Programs\EnigmaDHEnctyptionApp\EnigmaDHEncryptionApp\EnigmaClassTester\EnigmaClassTester\obj\Debug\EnigmaClassTester.csproj.CoreCompileInputs.cache
+C:\Users\maxwe\Desktop\My Documents\C# Programs\EnigmaDHEnctyptionApp\EnigmaDHEncryptionApp\EnigmaClassTester\EnigmaClassTester\obj\Debug\EnigmaClassTester.exe
+C:\Users\maxwe\Desktop\My Documents\C# Programs\EnigmaDHEnctyptionApp\EnigmaDHEncryptionApp\EnigmaClassTester\EnigmaClassTester\obj\Debug\EnigmaClassTester.pdb
