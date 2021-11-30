@@ -59,7 +59,7 @@ namespace RotorMaker
 
             List<int> alreadySwappedElements = new List<int>();
 
-            for (int n = 0; n < 50; n++) {
+            for (int n = 0; n < 50000; n++) {
                 int randA = rng.Next(N);
                 int randB = rng.Next(N);
 
