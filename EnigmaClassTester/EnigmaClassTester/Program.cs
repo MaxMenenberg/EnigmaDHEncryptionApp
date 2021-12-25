@@ -11,7 +11,7 @@ namespace EnigmaClassTester
     {
         static void Main(string[] args)
         {
-            string message = "Hello World!!!";
+            string message = "aaaaaaaaaaaaaaaaaaaaaaaaa";
 
             int s1 = 20;
             int s2 = 4;

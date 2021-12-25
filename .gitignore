@@ -3,3 +3,7 @@
 *.exe.config
 *.cache
 *.pdb
+*.lref
+*.resources
+MyCryptoApp/MyCryptoApp/obj/Debug
+MyCryptoApp/MyCryptoApp/Properties
