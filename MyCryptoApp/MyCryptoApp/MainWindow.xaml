@@ -24,7 +24,35 @@
                 </Grid>
             </TabItem>
             <TabItem Header="Key Exchange">
-                <Grid Background="#FF8B592E"/>
+                <Grid Background="#FF8B592E">
+                    <TextBox x:Name="modulusTextBox" HorizontalAlignment="Left" Height="23" Margin="10,27,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="229" Background="#FF99FF00"/>
+                    <Label Content="Modulus" HorizontalAlignment="Left" Margin="7,8,0,0" VerticalAlignment="Top" FontSize="14" FontFamily="Cambria Math"/>
+                    <TextBox x:Name="baseTextBox" HorizontalAlignment="Left" Height="23" Margin="10,83,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="229" Background="#FF99FF00"/>
+                    <Label x:Name="baseLabel" Content="Base" HorizontalAlignment="Left" Margin="7,62,0,0" VerticalAlignment="Top" FontSize="14" FontFamily="Cambria Math"/>
+                    <TextBox x:Name="recPulicKeyTextBox" HorizontalAlignment="Left" Height="23" Margin="10,247,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="229" Background="#FF99FF00"/>
+                    <Label Content="Private Key" HorizontalAlignment="Left" Margin="7,117,0,0" VerticalAlignment="Top" FontSize="14" FontFamily="Cambria Math"/>
+                    <TextBox x:Name="privateKeyTextBox" HorizontalAlignment="Left" Height="23" Margin="10,138,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="229" Background="#FFDF390C"/>
+                    <Label Content="Received Public Key" HorizontalAlignment="Left" Margin="7,227,0,0" VerticalAlignment="Top" FontSize="14" FontFamily="Cambria Math"/>
+                    <TextBox x:Name="sharedSecretKeyTextBox" HorizontalAlignment="Left" Height="23" Margin="10,301,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="229" Background="#FFDF390C"/>
+                    <Label Content="Shared Secret Key" HorizontalAlignment="Left" Margin="7,281,0,0" VerticalAlignment="Top" FontSize="14" FontFamily="Cambria Math"/>
+                    <Label Content="Public Key" HorizontalAlignment="Left" Margin="7,170,0,0" VerticalAlignment="Top" FontSize="14" FontFamily="Cambria Math"/>
+                    <TextBox x:Name="publicKeyTextBox" HorizontalAlignment="Left" Height="23" Margin="10,190,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="229" Background="#FF99FF00"/>
+                    <Button x:Name="GenerateModButton" HorizontalAlignment="Left" Height="51" Margin="256,29,0,0" VerticalAlignment="Top" Width="140" Background="#FF5166FF" FontSize="16" FontFamily="Cambria Math" Click="GenerateModButton_Click">
+                        <TextBlock TextWrapping="Wrap">Generate Modulus and Base</TextBlock>
+                    </Button>
+                    <Button x:Name="GeneratePublicKeyButton" HorizontalAlignment="Left" Height="51" Margin="256,138,0,0" VerticalAlignment="Top" Width="140" Background="#FFEB9816" FontSize="16" FontFamily="Cambria Math" Click="GeneratePublicKeyButton_Click">
+                        <TextBlock TextWrapping="Wrap"><Run Text="Generate Public Key"/></TextBlock>
+                    </Button>
+                    <Button x:Name="GenerateSecretKeyButton" HorizontalAlignment="Left" Height="51" Margin="256,247,0,0" VerticalAlignment="Top" Width="140" Background="#FF8E58F4" FontSize="16" FontFamily="Cambria Math" Click="GenerateSecretKeyButton_Click">
+                        <TextBlock TextWrapping="Wrap"><Run Text="Generate Shared Secret Key"/></TextBlock>
+                    </Button>
+                    <TextBox x:Name="r1TextBox" HorizontalAlignment="Left" Height="21" Margin="465,40,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="53" Background="#FFDF390C"/>
+                    <TextBox x:Name="r2TextBox" HorizontalAlignment="Left" Height="21" Margin="465,103,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="53" Background="#FFDF390C"/>
+                    <TextBox x:Name="r3TextBox" HorizontalAlignment="Left" Height="21" Margin="465,170,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="53" Background="#FFDF390C"/>
+                    <Label Content="R1" HorizontalAlignment="Left" Margin="438,40,0,0" VerticalAlignment="Top" FontSize="14" FontFamily="Cambria Math"/>
+                    <Label Content="R2" HorizontalAlignment="Left" Margin="438,103,0,0" VerticalAlignment="Top" FontSize="14" FontFamily="Cambria Math"/>
+                    <Label Content="R3" HorizontalAlignment="Left" Margin="438,170,0,0" VerticalAlignment="Top" FontSize="14" FontFamily="Cambria Math"/>
+                </Grid>
             </TabItem>
         </TabControl>
 

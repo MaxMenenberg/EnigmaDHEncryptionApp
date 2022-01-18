@@ -1,0 +1,7 @@
+C:\Users\maxwe\Desktop\My Documents\C# Programs\EnigmaDHEnctyptionApp\EnigmaDHEncryptionApp\PrimeParser\PrimeParser\PrimeParser\bin\Debug\PrimeParser.exe.config
+C:\Users\maxwe\Desktop\My Documents\C# Programs\EnigmaDHEnctyptionApp\EnigmaDHEncryptionApp\PrimeParser\PrimeParser\PrimeParser\bin\Debug\PrimeParser.exe
+C:\Users\maxwe\Desktop\My Documents\C# Programs\EnigmaDHEnctyptionApp\EnigmaDHEncryptionApp\PrimeParser\PrimeParser\PrimeParser\bin\Debug\PrimeParser.pdb
+C:\Users\maxwe\Desktop\My Documents\C# Programs\EnigmaDHEnctyptionApp\EnigmaDHEncryptionApp\PrimeParser\PrimeParser\PrimeParser\obj\Debug\PrimeParser.csprojAssemblyReference.cache
+C:\Users\maxwe\Desktop\My Documents\C# Programs\EnigmaDHEnctyptionApp\EnigmaDHEncryptionApp\PrimeParser\PrimeParser\PrimeParser\obj\Debug\PrimeParser.csproj.CoreCompileInputs.cache
+C:\Users\maxwe\Desktop\My Documents\C# Programs\EnigmaDHEnctyptionApp\EnigmaDHEncryptionApp\PrimeParser\PrimeParser\PrimeParser\obj\Debug\PrimeParser.exe
+C:\Users\maxwe\Desktop\My Documents\C# Programs\EnigmaDHEnctyptionApp\EnigmaDHEncryptionApp\PrimeParser\PrimeParser\PrimeParser\obj\Debug\PrimeParser.pdb
